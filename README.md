@@ -2,4 +2,4 @@
 
   <p> We challenge you to capture the healthy fruits and survive the onslaught of Junk food!</p>
   
-<img src="https://raw.githubusercontent.com/Ehuang1409/Fruit-Frenzy/master/Fruit%20Frenzy/Gametitle.png" Width=300 Height=300>
+<img src="https://raw.githubusercontent.com/Ehuang1409/Fruit-Frenzy/master/Fruit%20Frenzy/Gametitle.png" Width=800 Height=300>
